@@ -23,7 +23,6 @@ ostream& operator<<(ostream& output, const Matrix& mat) {
   // TODO: output the element values of the parameter mat
 }
 
- 
 istream& operator>>(istream& input, Matrix& mat) {
   // TODO: receive and store element values of the parameter mat
 }
